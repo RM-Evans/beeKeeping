@@ -1,0 +1,29 @@
+*{
+    background-color: #f7d82d;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.title { 
+    margin: 50px 0px;
+    font-size: 100px;
+}
+
+button { 
+    background-color: white;
+    min-height: 60px;
+    min-width: 150px;
+    padding: 15px;
+    font-size: 60px;
+    border-radius: 5px;
+}
+
+button:hover { 
+    background-color: black;
+    color: white;
+}
+
+#hiddenMessage { 
+    display: none;
+    font-size: 100px;
+    margin: 20px 0px;
+}
