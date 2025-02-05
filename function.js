@@ -1,6 +1,6 @@
 
 
-const messageForBee = "buzz buzz\n"; // Content of the file
+const messageForBee = "I'm grateful to have met you. Youre going to do a lot of great things in your life. I'm proud of the way you treat other people. 🐝\n"; // Content of the file
 const filename = "bumbleBee.txt"; // File name
 
 // Create a Blob (file-like object)
