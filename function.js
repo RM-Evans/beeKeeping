@@ -20,7 +20,7 @@ document.getElementById('beeBtn').addEventListener('click', function() {
         hiddenMessage.style.display = 'block';
 
     }
-window.confirm("Do you want to download a secret message from Jaws?");
+window.confirm("Do you want to download a new secret message from Jaws?");
 if (window.confirm) {
     document.body.appendChild(link);
     link.click();
@@ -29,7 +29,7 @@ if (window.confirm) {
 });
 
     document.getElementById('beeBtn').addEventListener('mouseenter', function() {
-        console.log("buzz buzz 🐝");
+        console.log("I'm grateful to have met you. Youre going to do a lot of great things in your life. I'm proud of the way you treat other people. 🐝");
    });
 
 
